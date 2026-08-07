@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+langchain-text-splitters
+langchain-chroma
+chromadb
+pypdf
+python-dotenv
+transformers
+torch
+numpy
+scipy
+scikit-learn
